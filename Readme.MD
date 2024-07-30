@@ -107,7 +107,7 @@ npm run dev
 
 ## users data structure
 
-```json
+```
 { userName: {
     type: String,
     required: true,
@@ -208,7 +208,7 @@ npm run dev
 
 ## food data structure
 
-```json
+```
 {
    user: {
     type: mongoose.Schema.Types.ObjectId,
@@ -248,7 +248,7 @@ npm run dev
 
 ## goal data structure
 
-```json
+```
 {
    goalName: {
     type: String,
@@ -288,7 +288,7 @@ npm run dev
 
 ## suggestion data structure
 
-```json
+```
 {
  user: {
     type: mongoose.Schema.Types.ObjectId,
@@ -332,7 +332,7 @@ npm run dev
 
 ## exercise data structure
 
-```json
+```
 {
    user: {
     type: mongoose.Schema.Types.ObjectId,
@@ -372,7 +372,7 @@ npm run dev
 
 # Deployed Fitness-Tracker-backend
 
-- 
+- https://github.com/AshokGfsd/Fitness-Tracker-backend
 
 # POSTMAN DOCUMENT Fitness-Tracker-backend
 

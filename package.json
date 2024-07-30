@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AshokGfsd/-Fitness_Tracker_BE.git"
+    "url": "git+https://github.com/AshokGfsd/Fitness-Tracker-backend.git"
   },
   "keywords": [
     "Fitness_Tracker"
@@ -18,9 +18,9 @@
   "author": "Ashok Govindharasu AYYANDURAI",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AshokGfsd/-Fitness_Tracker_BE/issues"
+    "url": "https://github.com/AshokGfsd/Fitness-Tracker-backend/issues"
   },
-  "homepage": "https://github.com/AshokGfsd/-Fitness_Tracker_BE#readme",
+  "homepage": "https://github.com/AshokGfsd/Fitness-Tracker-backend#readme",
   "dependencies": {
     "bcrypt": "^5.1.1",
     "cookie-parser": "^1.4.6",

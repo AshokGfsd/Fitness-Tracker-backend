@@ -1,6 +1,4 @@
-# GUVI - DAY 42
-
-## URL Shortener TASK.
+## Fitness-Tracker
 
 ### How to run the project on your machine:
 
@@ -372,10 +370,10 @@ npm run dev
 
 - Explain in postman document
 
-# Deployed URL
+# Deployed Fitness-Tracker-backend
 
 - 
 
-# POSTMAN DOCUMENT URL
+# POSTMAN DOCUMENT Fitness-Tracker-backend
 
 - https://documenter.getpostman.com/view/34880027/2sA3kbfyBb
